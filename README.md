@@ -98,6 +98,7 @@
 - ### 构建速度优化
 
   - [腾讯音乐技术团队-构建速度优化](https://juejin.im/post/6891957803813584909?utm_source=gold_browser_extension)
+  - [Android 优化APP 构建速度的17条建议](https://www.jianshu.com/p/a1cc8f2e0877)
 
 ## Android Framework
 
@@ -119,6 +120,8 @@
   - ART的Dex加载
 
 - Surface
+
+  - [“终于懂了” 系列：Android屏幕刷新机制—VSync、Choreographer 全面理解！](https://juejin.im/post/6863756420380196877)
 
 ## 开源项目解读
 
