@@ -95,6 +95,10 @@
   - 功耗
   - IO优化
 
+- ### 构建速度优化
+
+  - [腾讯音乐技术团队-构建速度优化](https://juejin.im/post/6891957803813584909?utm_source=gold_browser_extension)
+
 ## Android Framework
 
 - ### ActivityManagerService
@@ -142,7 +146,7 @@
 
 - ### 排序算法
 
-- LRUCache
+- #### LRUCache
 
 ## 知识广度
 
