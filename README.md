@@ -32,7 +32,7 @@
 
 - ### Kotlin的优势
 
-  - Kotlin比Java效率高的tips
+  - [用Kotlin去提高生产力:汇总Kotlin相对于Java的优势 kotlin_tips](https://juejin.im/post/6844903585730265095)
 
 - ### 协程
 
